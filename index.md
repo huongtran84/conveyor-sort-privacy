@@ -34,7 +34,7 @@ Gói "Gỡ quảng cáo" được thanh toán qua Google Play. Google xử lý t
 
 ## Liên hệ
 
-Nếu có câu hỏi về chính sách này, hãy gửi email tới [email liên hệ].
+Nếu có câu hỏi về chính sách này, hãy gửi email tới huongtd1984@gmail.com.
 
 ---
 
@@ -70,4 +70,4 @@ In regions where consent is required (for example the EU and the UK), the game a
 
 ## Contact
 
-If you have questions about this policy, email [contact email].
+If you have questions about this policy, email huongtd1984@gmail.com.
